@@ -24,6 +24,6 @@ I'm a passionate developer who loves building innovative and scalable solutions.
 
 ## 💬 Let's Connect
 
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aryan-pandey-737016252/))
+- [LinkedIn]([(https://www.linkedin.com/in/aryan-pandey-737016252/))
 - [Twitter](x.com/Aryan_17_10)
 
